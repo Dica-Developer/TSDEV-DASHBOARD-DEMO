@@ -1,1 +1,3 @@
 # TSDEV-DASHBOARD-DEMO
+## v1.6.0
+
