@@ -1,5 +1,5 @@
 # TSDEV-DASHBOARD-DEMO
-## v1.6.0
+## v1.7.1
 
 ## Ensure presence of NodeJS
 * Run: **node -v**
